@@ -35,6 +35,4 @@ All assets belong to their respective creators and are used under their licenses
 
 ---
 
-## 🙏 Acknowledgments
-
-Special thanks to all the asset creators for making their work available to the indie development community.
+🙏 Special thanks to all the asset creators for making their work available to the indie development community.
